@@ -15,6 +15,10 @@
     background-color: deepskyblue;
 }
 
+.color3{
+    background-color: black;
+}
+
 .side1 {
     background-image: url(./images/dice-1.png);
     background-size: contain;
